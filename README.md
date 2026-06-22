@@ -11,9 +11,3 @@
   <b>AI · Systems · Product</b>
 </p>
 <br>
-<p align="center">
-  <a href="mailto:shrashansh.dixit@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Email-ffffff?style=flat-square&logo=gmail&logoColor=0d1117&labelColor=1f2937" />
-  </a>
-</p>
- 
