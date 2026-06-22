@@ -1,23 +1,15 @@
 # Shrashansh Dixit
 
-Building AI systems with clarity.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrashansh&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shrashansh&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" />
+</p>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shrashansh&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff&title_color=000000&text_color=555555" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrashansh&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=555555" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=shrashansh&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000" />
-
-<br>
-
-Focused on:
-
-* Applied AI
-* Systems
-* Product engineering
+<p align="center">
+  AI · Systems · Product
+</p>
