@@ -1,4 +1,4 @@
-# Shrashansh Dixit
+[[# Shrashansh Dixit
 
 
 
@@ -19,3 +19,4 @@ Building things that last.
 
 
 AI · Systems · Product
+](https://github.com/shrashansh)](https://github.com/shrashansh)
